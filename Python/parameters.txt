@@ -1,0 +1,1 @@
+24,MetaHuman=BP_Rosemary,Glasses=true,Lights=false,IrCamera=true,TimeOfTheDay=24.0

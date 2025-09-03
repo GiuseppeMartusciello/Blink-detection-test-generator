@@ -1,0 +1,15 @@
+Content/MetaHumans/*
+!Content/MetaHumans/.gitkeep
+Saved/
+Binaries/
+DerivedDataCache/
+Intermediate/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.obj
+*.pch
